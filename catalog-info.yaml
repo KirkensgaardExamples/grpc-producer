@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: grpc-producer
+  annotations:
+    github.com/project-slug: KirkensgaardExamples/grpc-producer
+spec:
+  type: other
+  lifecycle: unknown
+  owner: Jarl Due
